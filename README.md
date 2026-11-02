@@ -21,7 +21,9 @@ The template above can be used independently of that service.
 
 ## Questions or improvements
 
-Open a repository issue if the template needs an improvement. Use a fictional or non-confidential example; do not post private meeting notes. This is a request for help or feedback, not a newsletter subscription.
+[Ask a workflow or purchase question](https://github.com/aneeqgul/midas-meeting-templates/issues/new?template=workflow-question.yml) about using the template, whether MeetMind fits your task, or its trial and purchase options. Posting a question requires a GitHub account and creates a public issue; using the template does not.
+
+You can also open a repository issue if the template needs an improvement. Use a fictional or non-confidential example; do not post private meeting notes. This is a request for help or feedback, not a newsletter subscription.
 
 ## Source
 
