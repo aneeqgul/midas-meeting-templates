@@ -1,0 +1,39 @@
+MEETING MINUTES AND ACTION LIST
+Free MIDAS working template. Fill this in locally; no account or email required.
+
+MEETING
+Title:
+Date and time zone:
+Attendees:
+Purpose:
+
+DECISIONS
+Decision | Exact supporting words / source line | Person confirming
+
+ACTION ITEMS
+Task | Owner explicitly agreed | Deadline explicitly agreed | Source line | Status
+1.
+2.
+3.
+Leave an owner or deadline unspecified until the participants confirm it.
+
+RISKS AND OPEN QUESTIONS
+Question / risk | Evidence | Next confirmation needed
+
+BEFORE SHARING
+[ ] Each action is supported by the notes or transcript.
+[ ] Owners and dates reflect explicit commitments, not guesses.
+[ ] Participants have checked corrections and unresolved questions.
+[ ] Confidential details have been removed from copies shared outside the team.
+
+Illustrative example, written by MIDAS; not a customer result or AI run:
+Notes: "Ravi: I will send the revised agenda by 6 November."
+Task: Send revised agenda | Owner: Ravi | Deadline: 6 November
+Notes: "We should check the venue."
+Task proposed: Check venue | Owner: unspecified | Deadline: unspecified
+The second note is a proposal, not an agreed assignment.
+
+Guide: https://midas-products.midas-cloud-control-plane.workers.dev/guides/meeting-minutes-action-items-template
+Try transcript analysis: https://midas-products.midas-cloud-control-plane.workers.dev/products/meetmind-ai
+Product analysis requires a verified account and uses a lifetime trial allowance.
+This template does not submit a transcript, send email or create a subscription.
