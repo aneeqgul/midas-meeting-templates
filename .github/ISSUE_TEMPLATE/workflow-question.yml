@@ -1,0 +1,37 @@
+name: Workflow or purchase question
+description: Ask a public, non-confidential question about the template or MeetMind.
+title: "[Workflow question]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask about using the template, whether MeetMind fits a task, or its trial and purchase options.
+        This creates a public GitHub issue. Use a fictional or non-confidential example.
+        Do not include meeting transcripts, names of clients or participants, email addresses, payment details, or account access information.
+        Asking a question does not subscribe you to marketing, start a purchase, or run an analysis.
+        MeetMind is a separate hosted service; processing currently depends on the MIDAS operator's laptop being online.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: What is your question about?
+      options:
+        - Using the free template
+        - Checking whether MeetMind fits a task
+        - Understanding trial or purchase options
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: What job do you want to finish?
+      description: Describe the workflow without sharing private material.
+      placeholder: "For example: I want an action list from a weekly project meeting."
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to know?
+      description: Ask about a capability, a limitation, trial access, or a purchase option.
+    validations:
+      required: true
