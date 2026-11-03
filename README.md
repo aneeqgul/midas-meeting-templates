@@ -15,7 +15,7 @@ The included example is fictional and was written to illustrate the method. It i
 
 ## Optional transcript analysis
 
-[MeetMind AI](https://midas-products.midas-cloud-control-plane.workers.dev/products/meetmind-ai?utm_source=github&utm_medium=owned&utm_campaign=meeting_template) analyzes pasted notes or transcripts into a summary, decisions, evidence-linked actions, risks and open questions. It is a separate hosted MIDAS product. Analysis requires a verified account, with 2 analyses per account for its lifetime trial. Check the product for current availability and purchase options. Processing currently depends on the MIDAS operator's laptop being online.
+[MeetMind AI](https://midas-products.midas-cloud-control-plane.workers.dev/products/meetmind-ai?utm_source=github&utm_medium=owned&utm_campaign=meeting_template&channel=github&campaign=meeting_template) analyzes pasted notes or transcripts into a summary, decisions, evidence-linked actions, risks and open questions. It is a separate hosted MIDAS product. Analysis requires a verified account, with 2 analyses per account for its lifetime trial. Check the product for current availability and purchase options. Processing currently depends on the MIDAS operator's laptop being online.
 
 The template above can be used independently of that service.
 
